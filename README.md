@@ -7,8 +7,8 @@ Personal webpage of Conor Henderson, particle physicist and novice github user
 Physics Department, University of Cincinnati<br>
 Cincinnati, OH 45221, USA.
 
-2016-21, **Associate Professor**,<br>
-2011-16, **Assistant Professor**,<br>
+2016-21, **Associate Professor**<br>
+2011-16, **Assistant Professor**<br>
 Department of Physics & Astronomy, University of Alabama<br>
 Tuscaloosa, AL 35487, USA.
 
