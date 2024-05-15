@@ -71,8 +71,8 @@ ware systems, the final stages in the CDF trigger and data acquisition system
 Undergraduate research supervision, University of Cincinnati, 2022-present:
    * Ethan Huecker, Akashdeep Khanikor, Parisa Ahmed, Gavin Clishe, Derrick Hollins, James Bachar (2022- present)
 
- Undergraduate research supervision, University of Alabama, 2011-22:
-    * Sam Perry (2020-22); Lauren Mackey (2020-21), now PhD program at Syracuse; Sarah Deutsch (2017-20), awarded UA’s Catherine J. Randall prize for outstanding senior based on academic performance and scholarly activity, and an NSF Graduate Fellowship for PhD study at Cornell; Shaun Hogan (2014-17), now PhD program at Cornell; Jacob Morrison (2015), PhD from Michigan State; Jason Britchkow (2015); Alison Marsh (2013-14); Justin Brooks (2012-13); Ann-Kathryn Rockwell (2012); Joseph Murray (2011)
+Undergraduate research supervision, University of Alabama, 2011-22: 
+   * Sam Perry (2020-22); Lauren Mackey (2020-21), now PhD program at Syracuse; Sarah Deutsch (2017-20), awarded UA’s Catherine J. Randall prize for outstanding senior based on academic performance and scholarly activity, and an NSF Graduate Fellowship for PhD study at Cornell; Shaun Hogan (2014-17), now PhD program at Cornell; Jacob Morrison (2015), PhD from Michigan State; Jason Britchkow (2015); Alison Marsh (2013-14); Justin Brooks (2012-13); Ann-Kathryn Rockwell (2012); Joseph Murray (2011)
   
 Undergraduate research supervision through CERN Summer School program:
    * Carrie Cox, 2023; Uzzie Perez, 2015; Donal Hill, Mark Ross-Lonergan, 2010; Marco Peruzzi, 2009
