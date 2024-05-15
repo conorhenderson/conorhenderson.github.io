@@ -50,7 +50,7 @@ Queen's University Belfast, Northern Ireland, UK
    * Project Leader (May 2006 - Aug 2008) for the CDF Event-Builder and Level 3 Trigger Hard-
 ware systems, the final stages in the CDF trigger and data acquisition system
 
-2000-05, **PHOBOS experiment** at Relativistic Heavy-Ion Collider, Brookhaven National Lab, NY
+2000-05, <a href="https://www.sdcc.bnl.gov/phobos/">**PHOBOS experiment**</a> at Relativistic Heavy-Ion Collider, Brookhaven National Lab, NY
    * Analysis of pion, kaon, proton and charged hadron transverse momentum spectra from heavy- ion collisions at RHIC
    * Development and maintenance of track-finding algorithms for the PHOBOS silicon spectrom- eter, and combination of tracks with Time-of-Flight information
    * Design and implementation of a high-level trigger system for selecting high-momentum tracks; VHDL programming for electronic logic devices.
