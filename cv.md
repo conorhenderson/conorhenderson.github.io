@@ -11,7 +11,7 @@ Cincinnati, OH 45221, USA.
 Department of Physics & Astronomy, University of Alabama<br>
 Tuscaloosa, AL 35487, USA.
 
-2008-10, **CERN Research Fellow**,<br>
+2008-10, **CERN Research Fellow**<br>
 CERN, Geneva, Switzerland<br>
 Mentor: Dr. Albert De Roeck
 
@@ -76,8 +76,8 @@ At the University of Alabama, 2011-21:
 **PhD students supervised**:
    * Gabriel Nowak, University of Cincinnati, 2022 - present, "Measurement of WW production with the LHCb Detector at the Large Hadron Collider"
    * Mohamed Elashri, University of Cincinnati, 2022 - present, "Study of rare four-body B decays"
-   * Cilicia Uzziel Perez, University of Alabama, 2017-2024, "Search for non-resonant new physics in high-mass diphoton events from pp collisions at sqrt(s)= 13 TeV with the CMS detector and highlights from HCAL upgrades", CERN-THESIS-2024-052, http://cds.cern.ch/record/2897428 
-   * <a href="https://abuccilli.github.io/"> Andrew Buccilli</a>, University of Alabama, 2013 - 2018, “Search for Signatures of Large Extra Dimensions in High-Mass Diphoton Events from Proton-Proton Collisions at sqrt(s)=13 TeV with CMS", CERN-THESIS-2018-380, https://cds.cern.ch/record/2668304  (awarded prize for Outstanding PhD Dissertation by the UA Department of Physics & Astronomy)
+   * Cilicia Uzziel Perez, University of Alabama, 2017-2024, "Search for non-resonant new physics in high-mass diphoton events from pp collisions at sqrt(s)= 13 TeV with the CMS detector and highlights from HCAL upgrades", [CERN-THESIS-2024-052](http://cds.cern.ch/record/2897428) 
+   * <a href="https://abuccilli.github.io/"> Andrew Buccilli</a>, University of Alabama, 2013 - 2018, “Search for Signatures of Large Extra Dimensions in High-Mass Diphoton Events from Proton-Proton Collisions at sqrt(s)=13 TeV with CMS", [CERN-THESIS-2018-380](https://cds.cern.ch/record/2668304)  (awarded prize for Outstanding PhD Dissertation by the UA Department of Physics & Astronomy)
 
 Undergraduate research supervision, University of Cincinnati, 2022-present:
    * Ethan Huecker, Akashdeep Khanikor, Parisa Ahmed, Gavin Clishe, Derrick Hollins, James Bachar (2022- present)
