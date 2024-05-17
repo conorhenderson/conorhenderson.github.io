@@ -57,3 +57,17 @@ ware systems, the final stages in the CDF trigger and data acquisition system
 
 
 ## Teaching
+
+At the University of Cincinnati, 2021-present:
+   * Introductory and Intermediate Physics Major labs
+   * Introduction to Particle Physics (graduate)
+
+At the University of Alabama, 2011-21:
+   * General Physics with Calculus I
+   * General Physics with Algebra I
+   * Classical Mechanics (including Lagrangian mechanics)
+   * Graduate Intro to Nuclear & Particle Physics
+   * Introduction to Nuclear and Particle Physics for Undergraduates
+   * "Unsolved Mysteries in Physics", self-created seminar course focusing on major unsolved problems in modern physics research
+   * Independent study in elementary particle physics
+     
