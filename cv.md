@@ -70,4 +70,22 @@ At the University of Alabama, 2011-21:
    * Introduction to Nuclear and Particle Physics for Undergraduates
    * "Unsolved Mysteries in Physics", self-created seminar course focusing on major unsolved problems in modern physics research
    * Independent study in elementary particle physics
+
+## Students Supervised
+
+**PhD students supervised**:
+   * Gabriel Nowak, University of Cincinnati, 2022 - present, "Measurement of WW production with the LHCb Detector at the Large Hadron Collider"
+   * Mohamed Elashri, University of Cincinnati, 2022 - present, "Study of rare four-body B decays"
+   * Cilicia Uzziel Perez, University of Alabama, 2017-2024, "Search for non-resonant new physics in high-mass diphoton events from pp collisions at sqrt(s)= 13 TeV with the CMS detector and highlights from HCAL upgrades", CERN-THESIS-2024-052, http://cds.cern.ch/record/2897428 
+   * <a href="https://abuccilli.github.io/"> Andrew Buccilli</a>, University of Alabama, 2013 - 2018, “Search for Signatures of Large Extra Dimensions in High-Mass Diphoton Events from Proton-Proton Collisions at sqrt(s)=13 TeV with CMS", CERN-THESIS-2018-380, https://cds.cern.ch/record/2668304  (awarded prize for Outstanding PhD Dissertation by the UA Department of Physics & Astronomy)
+
+Undergraduate research supervision, University of Cincinnati, 2022-present:
+   * Ethan Huecker, Akashdeep Khanikor, Parisa Ahmed, Gavin Clishe, Derrick Hollins, James Bachar (2022- present)
+
+Undergraduate research supervision, University of Alabama, 2011-22: 
+   * Sam Perry (2020-22); Lauren Mackey (2020-21), now PhD program at Syracuse; Sarah Deutsch (2017-20), awarded UA’s Catherine J. Randall prize for outstanding senior based on academic performance and scholarly activity, and an NSF Graduate Fellowship for PhD study at Cornell; Shaun Hogan (2014-17), now PhD program at Cornell; Jacob Morrison (2015), PhD from Michigan State; Jason Britchkow (2015); Alison Marsh (2013-14); Justin Brooks (2012-13); Ann-Kathryn Rockwell (2012), PhD in Elec Engineering from U. Texas; Joseph Murray (2011)
+  
+Undergraduate research supervision through CERN Summer School program:
+   * Carrie Cox, 2023; Uzzie Perez, 2015; Donal Hill, Mark Ross-Lonergan, 2010; Marco Peruzzi, 2009
+
      
