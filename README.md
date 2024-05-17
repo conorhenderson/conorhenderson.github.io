@@ -1,7 +1,7 @@
 # conorhenderson.github.io
 Personal webpage of Conor Henderson, particle physicist and novice github user
 
-<a href="cv.md">Link to Academic CV</a>
+[Link to Academic CV](/cv.md)
 
 ## Academic Positions
 
