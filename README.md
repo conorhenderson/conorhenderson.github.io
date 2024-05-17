@@ -11,3 +11,5 @@ After postdoctoral research appointments with [MIT](https://web.mit.edu/lns/inde
 ## Research
 
 My research is in experimental particle physics with the [LHCb detector](https://home.cern/science/experiments/lhcb) at the Large Hadron Collider (LHC) in CERN, the European Laboratory for Particle Physics in Geneva, Switzerland. 
+
+[Resources to Get Started with Experimental High Energy Physics for Students](/hep_start/)
