@@ -12,4 +12,6 @@ then consult ['Particle Detectors at Accelerators'](https://pdg.lbl.gov/2023/web
 
 <!-- Can I find a more gentle intro to HEP detectors? Perhaps from a summer school? -->
 
-LHCb Theses collection on the CERN Document Server (CDS): https://cds.cern.ch/collection/LHCb%20Theses?ln=en&as=1
+
+Also helpful are previous PhD theses. The CERN Document Server hosts submitted LHC theses, organised by experiment. For LHCb, that collection is:
+[LHCb Theses collection on the CERN Document Server (CDS)](https://cds.cern.ch/collection/LHCb%20Theses?ln=en&as=1)
