@@ -11,3 +11,5 @@ then consult ['Particle Detectors at Accelerators'](https://pdg.lbl.gov/2023/web
 (Note: the direct links provided here are for the 2023 versions which may not be the most up-to-date at the time you are viewing this)
 
 <!-- Can I find a more gentle intro to HEP detectors? Perhaps from a summer school? -->
+
+LHCb Theses collection on the CERN Document Server (CDS): https://cds.cern.ch/collection/LHCb%20Theses?ln=en&as=1
