@@ -4,6 +4,8 @@ The following links and resources are intended to be useful for students getting
 
 ## Introduction to HEP Detectors
 
+To get started learning about HEP detectors, you could review the detector presentations at the [2024 Fermilab-CERN Hadron Collider Physics Summer School](https://indico.fnal.gov/event/63696/timetable/?view=standard_numbered). Look for the presentations on Calorimeters by Jim Hirschauer, Muon Detectors by Kevin Black, Tracking Detectors by Corinne Mills. 
+
 The [Particle Data Group](https://pdg.lbl.gov/) Reviews on Experimental Methods are a great resource to learn about HEP detector technologies; just be aware that they are not 
 necessarily written at the intro level.
 Start with the ['Passage of Particles Through Matter'](https://pdg.lbl.gov/2023/web/viewer.html?file=../reviews/rpp2023-rev-passage-particles-matter.pdf)
