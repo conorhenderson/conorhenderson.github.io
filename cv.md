@@ -1,5 +1,8 @@
 # Conor Henderson - University of Cincinnati
 
+ORCID: 0000-0002-6986-9404 <br>
+INSPIRE Author page: https://inspirehep.net/authors/1030277 
+
 ## Academic Positions
 
 2021-present, **Associate Professor** <br>
@@ -35,6 +38,7 @@ Queen's University Belfast, Northern Ireland, UK
 2021- present, **LHCb experiment** at Large Hadron Collider, CERN
    * Measurement of electroweak processes in the forward region
    * Upgrade of the Electromagnetic Calorimeter
+   * member of LHCb collaboration Speakers Bureau
      
 2008-2021, **CMS experiment** at Large Hadron Collider, CERN
    * Searches for physics beyond the Standard Model in multi-photon final states
@@ -43,7 +47,7 @@ Queen's University Belfast, Northern Ireland, UK
    * Chair, Language Editor and Member of several CMS internal analysis review committees for publications in Exotica, Higgs and Standard Model physics
    * Co-convener of CMS working group on Exotica with High-pT Photons (2009-10)
    * High-Level Trigger operations support and on-call expert (2009-10)
-   
+
 2005-08, **CDF experiment** at Tevatron collider, Fermilab
    * Analysis of high-pT data from proton-antiproton collisions, for a model-independent search for new physics beyond the Standard Model of particle physics
    * Co-convener of the CDF Working Group on Very Exotic Phenomena (Sept 2007 - Sept 2008).
@@ -55,12 +59,31 @@ ware systems, the final stages in the CDF trigger and data acquisition system
    * Development and maintenance of track-finding algorithms for the PHOBOS silicon spectrom- eter, and combination of tracks with Time-of-Flight information
    * Design and implementation of a high-level trigger system for selecting high-momentum tracks; VHDL programming for electronic logic devices.
 
+## Research Funding
+
+External/Federal funding:
+   * ‘Probing the Standard Model with the LHCb Detector at the Large Hadron Collider’, National Science Foundation, PHY-2411665, PI, 100% of $390,000, 2024-2027
+   * National Science Foundation, Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP), PHY-2323298, co-I, 50% share of $1M, 2023-28
+   * University of Notre Dame/NSF, QuarkNet Center at the University of Cincinnati, PHY- 2309272, PI at Cincinnati, $12,000, 2023-26
+   * US Department of Energy, PI of Energy Frontier portion of award DE-SC0012447, 34% share of $1,200,000, 2020-23
+   * US Department of Energy, PI of Energy Frontier portion of award DE-SC0012447, 50% share of $630,000, 2017-20
+   * Universities Research Association (Fermilab), $15,000 (salary support for postdoctoral researcher), 2018
+   * US Department of Energy, PI of Energy Frontier portion of award DE-SC0012447, 50% share of $630,000, 2014-17
+
+Internal University funding:
+   * University of Cincinnati Research Launch award, $2,500, 2022
+   * University of Alabama Collaborative Arts Research Initiative, $8,000, 2020-21
+   * University of Alabama Office for Research Small Grant Program, $6,000, 2020
+   * University of Alabama Research Grants Committee, $6,000, 2012-14
+   * University of Alabama College Academy of Research, Scholarship and Creative Activity, $7,000, 2012-13
 
 ## Teaching
 
 At the University of Cincinnati, 2021-present:
-   * Introductory and Intermediate Physics Major labs
+   * Introductory Physics Major labs
+   * Intermediate Physics Major labs
    * Introduction to Particle Physics (graduate)
+   * Quantum Mechanics I
 
 At the University of Alabama, 2011-21:
    * General Physics with Calculus I
@@ -74,18 +97,19 @@ At the University of Alabama, 2011-21:
 ## Students Supervised
 
 **PhD students supervised**:
+   * Christian Coronel, University of Cincinnati, 2024-present, “Search for rare decays of the η and η′ mesons to μ+μ−μ+μ− using the LHCb Detector at the Large Hadron Collider”
    * Gabriel Nowak, University of Cincinnati, 2022 - present, "Measurement of WW production with the LHCb Detector at the Large Hadron Collider"
    * Mohamed Elashri, University of Cincinnati, 2022 - present, "Study of rare four-body B decays with the LHCb Detector at the Large Hadron Collider"
    * Cilicia Uzziel Perez, University of Alabama, 2017-2024, "Search for non-resonant new physics in high-mass diphoton events from pp collisions at sqrt(s)= 13 TeV with the CMS detector and highlights from HCAL upgrades", [CERN-THESIS-2024-052](http://cds.cern.ch/record/2897428) 
    * <a href="https://abuccilli.github.io/"> Andrew Buccilli</a>, University of Alabama, 2013 - 2018, “Search for Signatures of Large Extra Dimensions in High-Mass Diphoton Events from Proton-Proton Collisions at sqrt(s)=13 TeV with CMS", [CERN-THESIS-2018-380](https://cds.cern.ch/record/2668304)  (awarded prize for Outstanding PhD Dissertation by the UA Department of Physics & Astronomy)
 
 Undergraduate research supervision, University of Cincinnati, 2022-present:
-   * Ethan Huecker, Akashdeep Khanikor, Parisa Ahmed, Gavin Clishe, Derrick Hollins, James Bachar (2022- present)
+   * James Bachar, Derrick Hollins, Gavin Clishe, Akashdeep Khanikor, Parisa Ahmed, Ethan Huecker  
 
 Undergraduate research supervision, University of Alabama, 2011-22: 
    * Sam Perry (2020-22); Lauren Mackey (2020-21), now PhD program at Syracuse; Sarah Deutsch (2017-20), awarded UA’s Catherine J. Randall prize for outstanding senior based on academic performance and scholarly activity, and an NSF Graduate Fellowship for PhD study at Cornell; Shaun Hogan (2014-17), now PhD program at Cornell; Jacob Morrison (2015), PhD from Michigan State; Jason Britchkow (2015); Alison Marsh (2013-14); Justin Brooks (2012-13); Ann-Kathryn Rockwell (2012), PhD in Elec Engineering from U. Texas; Joseph Murray (2011)
   
 Undergraduate research supervision through CERN Summer School program:
-   * Carrie Cox, 2023; Uzzie Perez, 2015; Donal Hill, Mark Ross-Lonergan, 2010; Marco Peruzzi, 2009
+   * Kylene Monaghan, 2025; Gabriella Pesticci, 2024; Carrie Cox, 2023; Uzzie Perez, 2015; Donal Hill, Mark Ross-Lonergan, 2010; Marco Peruzzi, 2009
 
      
