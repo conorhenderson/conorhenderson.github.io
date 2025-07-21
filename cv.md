@@ -38,6 +38,7 @@ Queen's University Belfast, Northern Ireland, UK
 2021- present, **LHCb experiment** at Large Hadron Collider, CERN
    * Measurement of electroweak processes in the forward region
    * Upgrade of the Electromagnetic Calorimeter
+   * member of LHCb collaboration Speakers Bureau
      
 2008-2021, **CMS experiment** at Large Hadron Collider, CERN
    * Searches for physics beyond the Standard Model in multi-photon final states
@@ -46,7 +47,7 @@ Queen's University Belfast, Northern Ireland, UK
    * Chair, Language Editor and Member of several CMS internal analysis review committees for publications in Exotica, Higgs and Standard Model physics
    * Co-convener of CMS working group on Exotica with High-pT Photons (2009-10)
    * High-Level Trigger operations support and on-call expert (2009-10)
-   
+
 2005-08, **CDF experiment** at Tevatron collider, Fermilab
    * Analysis of high-pT data from proton-antiproton collisions, for a model-independent search for new physics beyond the Standard Model of particle physics
    * Co-convener of the CDF Working Group on Very Exotic Phenomena (Sept 2007 - Sept 2008).
@@ -58,12 +59,31 @@ ware systems, the final stages in the CDF trigger and data acquisition system
    * Development and maintenance of track-finding algorithms for the PHOBOS silicon spectrom- eter, and combination of tracks with Time-of-Flight information
    * Design and implementation of a high-level trigger system for selecting high-momentum tracks; VHDL programming for electronic logic devices.
 
+## Research Funding
+
+External/Federal funding:
+   * ‘Probing the Standard Model with the LHCb Detector at the Large Hadron Collider’, National Science Foundation, PHY-2411665, PI, 100% of $390,000, 2024-2027
+   * National Science Foundation, Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP), PHY-2323298, co-I, 50% share of $1M, 2023-28
+   * University of Notre Dame/NSF, QuarkNet Center at the University of Cincinnati, PHY- 2309272, PI at Cincinnati, $12,000, 2023-26
+   * US Department of Energy, PI of Energy Frontier portion of award DE-SC0012447, 34% share of $1,200,000, 2020-23
+   * US Department of Energy, PI of Energy Frontier portion of award DE-SC0012447, 50% share of $630,000, 2017-20
+   * Universities Research Association (Fermilab), $15,000 (salary support for postdoctoral researcher), 2018
+   * US Department of Energy, PI of Energy Frontier portion of award DE-SC0012447, 50% share of $630,000, 2014-17
+
+Internal University funding:
+   * University of Cincinnati Research Launch award, $2,500, 2022
+   * University of Alabama Collaborative Arts Research Initiative, $8,000, 2020-21
+   * University of Alabama Office for Research Small Grant Program, $6,000, 2020
+   * University of Alabama Research Grants Committee, $6,000, 2012-14
+   * University of Alabama College Academy of Research, Scholarship and Creative Activity, $7,000, 2012-13
 
 ## Teaching
 
 At the University of Cincinnati, 2021-present:
-   * Introductory and Intermediate Physics Major labs
+   * Introductory Physics Major labs
+   * Intermediate Physics Major labs
    * Introduction to Particle Physics (graduate)
+   * Quantum Mechanics I
 
 At the University of Alabama, 2011-21:
    * General Physics with Calculus I
@@ -77,6 +97,7 @@ At the University of Alabama, 2011-21:
 ## Students Supervised
 
 **PhD students supervised**:
+   * Christian Coronel, University of Cincinnati, 2024-present, “Search for rare decays of the η and η′ mesons to μ+μ−μ+μ− using the LHCb Detector at the Large Hadron Collider”
    * Gabriel Nowak, University of Cincinnati, 2022 - present, "Measurement of WW production with the LHCb Detector at the Large Hadron Collider"
    * Mohamed Elashri, University of Cincinnati, 2022 - present, "Study of rare four-body B decays with the LHCb Detector at the Large Hadron Collider"
    * Cilicia Uzziel Perez, University of Alabama, 2017-2024, "Search for non-resonant new physics in high-mass diphoton events from pp collisions at sqrt(s)= 13 TeV with the CMS detector and highlights from HCAL upgrades", [CERN-THESIS-2024-052](http://cds.cern.ch/record/2897428) 
