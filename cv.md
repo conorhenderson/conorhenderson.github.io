@@ -1,5 +1,7 @@
 # Conor Henderson - University of Cincinnati
 
+ORCID: 0000-0002-6986-9404
+
 ## Academic Positions
 
 2021-present, **Associate Professor** <br>
