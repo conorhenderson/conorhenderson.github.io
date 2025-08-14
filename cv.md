@@ -107,7 +107,7 @@ Undergraduate research supervision, University of Cincinnati, 2022-present:
    * James Bachar, Derrick Hollins, Gavin Clishe, Akashdeep Khanikor, Parisa Ahmed, Ethan Huecker  
 
 Undergraduate research supervision, University of Alabama, 2011-22: 
-   * Sam Perry (2020-22); Lauren Mackey (2020-21), now PhD program at Syracuse; Sarah Deutsch (2017-20), awarded UA’s Catherine J. Randall prize for outstanding senior based on academic performance and scholarly activity, and an NSF Graduate Fellowship for PhD study at Cornell; Shaun Hogan (2014-17), now PhD program at Cornell; Jacob Morrison (2015), PhD from Michigan State; Jason Britchkow (2015); Alison Marsh (2013-14); Justin Brooks (2012-13); Ann-Kathryn Rockwell (2012), PhD in Elec Engineering from U. Texas; Joseph Murray (2011)
+   * Sam Perry (2020-22); Lauren Mackey (2020-21), now PhD program at Syracuse; Sarah Deutsch (2017-20), awarded UA’s <a href="https://premier.rrsp.ua.edu/recipients">Catherine J. Randall prize</a> for outstanding senior based on academic performance and scholarly activity, and an NSF Graduate Fellowship for PhD study at Cornell; Shaun Hogan (2014-17), now PhD program at Cornell; Jacob Morrison (2015), PhD from Michigan State; Jason Britchkow (2015); Alison Marsh (2013-14); Justin Brooks (2012-13); Ann-Kathryn Rockwell (2012), PhD in Elec Engineering from U. Texas; Joseph Murray (2011)
   
 Undergraduate research supervision through CERN Summer School program:
    * Kylene Monaghan, 2025; Gabriella Pesticci, 2024; Carrie Cox, 2023; Uzzie Perez, 2015; Donal Hill, Mark Ross-Lonergan, 2010; Marco Peruzzi, 2009
