@@ -116,5 +116,13 @@ Undergraduate research supervision through CERN Summer School program:
 ## Conference Presentations
 
    *  *Recent Results from LHCb*, Plenary talk at Pheno 2023, 8-10 May 2023, Pittsburgh PA. 
-   *   *Future Physics Prospects with the CMS Detector at the High-Luminosity LHC*, XXVIII International Workshop on Deep-Inelastic Scattering and Related Subjects (DIS 2021), April 2021, Stony Brook University, NY. 
+   *   *Future Physics Prospects with the CMS Detector at the High-Luminosity LHC*, XXVIII International Workshop on Deep-Inelastic Scattering and Related Subjects (DIS 2021), April 2021, Stony Brook University, NY.
+   * *Recent Higgs Boson Physics Results from CMS*, Invited talk at 2019 Annual meeting of the Southeastern Section of the American Physical Society (SESAPS 2019), 7-9 November 2019, Wrightsville Beach, NC.
+   *  *Search for nonresonant new phenomena in final states with leptons, photons and jets at CMS*,  Parallel talk at Pheno 2018, 7 May 2018, Pittsburgh, PA. 
+   *   *Search for high mass resonances in diphoton final states in CMS*, Parallel talk at SUSY 2015, 28 August 2015, UC Davis/Lake Tahoe, CA.
+   *   *Recent Exotic Search Results from CMS*, Plenary Talk at La Thuile 2015, 6 March 2015, La Thuile, Italy.
+   * *Results of a Global Search for New Physics at CDF*, Plenary talk at Moriond QCD 2008, 10 March 2008,  La Thuile, Italy.
+   * *Sleuth: Results of a Quasi-Model-Independent Search for New Physics in 1 fb$^{-1}$ at CDF*, Parallel talk at PHENO 2007, 7 May 2007, Madison, WI.
+   * *Vista: A New Method for an Inclusive Search of Tevatron Run II Data*, Parallel talk at PHENO 2006, 15 May 2006, Madison, WI.
+
 
