@@ -112,4 +112,9 @@ Undergraduate research supervision, University of Alabama, 2011-22:
 Undergraduate research supervision through CERN Summer School program:
    * Kylene Monaghan, 2025; Gabriella Pesticci, 2024; Carrie Cox, 2023; Uzzie Perez, 2015; Donal Hill, Mark Ross-Lonergan, 2010; Marco Peruzzi, 2009
 
-     
+
+## Conference Presentations
+
+   *  *Recent Results from LHCb*, Plenary talk at Pheno 2023, 8-10 May 2023, Pittsburgh PA. 
+   *   *Future Physics Prospects with the CMS Detector at the High-Luminosity LHC*, XXVIII International Workshop on Deep-Inelastic Scattering and Related Subjects (DIS 2021), April 2021, Stony Brook University, NY. 
+
