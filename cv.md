@@ -104,7 +104,7 @@ At the University of Alabama, 2011-21:
    * <a href="https://abuccilli.github.io/"> Andrew Buccilli</a>, University of Alabama, 2013 - 2018, “Search for Signatures of Large Extra Dimensions in High-Mass Diphoton Events from Proton-Proton Collisions at sqrt(s)=13 TeV with CMS", [CERN-THESIS-2018-380](https://cds.cern.ch/record/2668304)  (awarded prize for Outstanding PhD Dissertation by the UA Department of Physics & Astronomy)
 
 Undergraduate research supervision, University of Cincinnati, 2022-present:
-   * James Bachar, Derrick Hollins, Gavin Clishe, Akashdeep Khanikor, Parisa Ahmed, Ethan Huecker  
+   * Cameron Wilson, James Bachar, Derrick Hollins, Gavin Clishe, Akashdeep Khanikor, Parisa Ahmed, Ethan Huecker  
 
 Undergraduate research supervision, University of Alabama, 2011-22: 
    * Sam Perry (2020-22); Lauren Mackey (2020-21), now PhD program at Syracuse; Sarah Deutsch (2017-20), awarded UA’s <a href="https://premier.rrsp.ua.edu/recipients">Catherine J. Randall prize</a> for outstanding senior based on academic performance and scholarly activity, and an NSF Graduate Fellowship for PhD study at Cornell; Shaun Hogan (2014-17), now PhD program at Cornell; Jacob Morrison (2015), PhD from Michigan State; Jason Britchkow (2015); Alison Marsh (2013-14); Justin Brooks (2012-13); Ann-Kathryn Rockwell (2012), PhD in Elec Engineering from U. Texas; Joseph Murray (2011)
@@ -115,6 +115,7 @@ Undergraduate research supervision through CERN Summer School program:
 
 ## Conference Presentations
 
+   * *Electroweak Measurements and Light-particle Searches with LHCb*, Plenary talk at ['Paving the Way to New Discoveries in Particle Physics'](https://indico.cern.ch/event/1562147/) , Aspen Colorado, 6-9 Feb 2026
    *  *Recent Results from LHCb*, Plenary talk at Pheno 2023, 8-10 May 2023, Pittsburgh PA. 
    *   *Future Physics Prospects with the CMS Detector at the High-Luminosity LHC*, XXVIII International Workshop on Deep-Inelastic Scattering and Related Subjects (DIS 2021), April 2021, Stony Brook University, NY.
    * *Recent Higgs Boson Physics Results from CMS*, Invited talk at 2019 Annual meeting of the Southeastern Section of the American Physical Society (SESAPS 2019), 7-9 November 2019, Wrightsville Beach, NC.
@@ -125,4 +126,41 @@ Undergraduate research supervision through CERN Summer School program:
    * *Sleuth: Results of a Quasi-Model-Independent Search for New Physics in 1 fb$^{-1}$ at CDF*, Parallel talk at PHENO 2007, 7 May 2007, Madison, WI.
    * *Vista: A New Method for an Inclusive Search of Tevatron Run II Data*, Parallel talk at PHENO 2006, 15 May 2006, Madison, WI.
 
+## Research Seminars
+   * ‘Searching for Extra Dimensions at the LHC with CMS‘ – The Ohio State University, 15 October 2018
+   * ‘Recent Results from CMS’ – University of Alabama, 8 April 2011
+   * ‘Searching for New Physics with Photons at the Large Hadron Collider’ – University of Bristol, 29 July 2010
+   * ‘Global Search for Physics Beyond the Standard Model’ – Glasgow University Physics Department, 7 January 2009
+   * ‘Results of a Global Search for New Physics with 2 fb−1 at CDF’:
+     * Fermilab ‘Wine and Cheese’ Seminar, 30 May 2008
+     * MIT, 13 May 2008
+     * Harvard University, 30 April 2008
+     * University of Illinois, Urbana-Champaign, 14 April 2008
+   * ‘Results of a Global Search for New Physics with 1 fb−1 at CDF’:
+     * Argonne National Laboratory, 5 December 2007
+     * University of Pennsylvania, 13 November 2007
+     * Duke University, 30 October 2007
+     * University of Wisconsin, Madison, 22 October 2007
+   * ‘Vista and Sleuth: Searching for New Physics at the Tevatron’ – Penn State University, 15 November 2006
 
+## Departmental Colloquia
+   * Searching for Extra Dimensions at the Large Hadron Collider – University of Cincinnati Physics Department, May 2021.
+   * Searching for Extra Dimensions at the Large Hadron Collider with the CMS Experiment – University of South Alabama Physics Department, 6 February 2020.
+   * ‘Hunting the Higgs Boson’ – University of Alabama-Birmingham Physics Department, 21 September 2012.
+   * ‘Searching for Physics beyond the Standard Model at the Large Hadron Collider’ – University of Alabama-Huntsville Physics Department, 11 October 2011.
+   * ‘Searching for New Physics at the Large Hadron Collider’ – University of Alabama Physics Department, 29 March 2010
+
+
+
+## Academic and Institutional Service (Selected)
+
+   * Fulbright Scholarship U.S. Student National Screening Committee member, 2025
+   * Member of Steering Committee for APS Bridge Program at the University of Cincinnati
+(UC), 2022-present
+   * Member of UC Physics department APS-IDEA team, 2022 - present
+   * University of Alabama (UA) College of Arts & Sciences Dean’s Postdoctoral Fellowship Se- lection Committee member, 2019-20
+   * UA Faculty Senate member, 2019-20 (member of Research & Service Committee)
+   * Director of Graduate Studies, University of Alabama Department of Physics & Astronomy,
+2017-19
+
+     
