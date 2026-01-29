@@ -174,3 +174,16 @@ Undergraduate research supervision through CERN Summer School program:
 2017-19
 
      
+## Outreach Activities
+
+   * Primary mentor and organiser for Univ of Cincinnati [QuarkNet](https://quarknet.org/) workshop for high-school physics teacher training in high-energy physics research (2023-present)
+   * Volunteer judge for elementary- and middle-school physics projects competing for Gordon J. Aubrecht Award for Outstanding Physics Projects, South-East Ohio State Science Day, Ohio Academy of Sciences (2022-23)
+   * “Inside the Atom: from Quarks and Leptons to the Higgs Boson”, public outreach lecture to Cincinnati Mensa Gathering (December 2023)
+   * “Inside the Atom: from Quarks and Leptons to the Higgs Boson”, public outreach lecture to New Horizons retiree group at the Univ of Alabama-Birmingham (April 2015)
+   * Member of organizing committee for annual Univ of Alabama High School Physics Contest, 2012-15.
+   * Organized Univ. of Alabama Physics Dept public talk by Dr. Albert De Roeck (CERN), a leader of the CMS Higgs working group, on the discovery of the Higgs Boson at the Large Hadron Collider, 28 August 2013
+   * Public Night talk at UA, ‘Hunting the Higgs Boson at the Large Hadron Collider’ (26 January 2013)
+   * Talks with High School (A-level) physics students at Lismore Comprehensive School, Craigavon, Northern Ireland (May 2008, September 2009)
+   * Interview with local newspaper (Lurgan Mail, 1 October 2009)
+   * Interviewed for Northern Ireland schools documentary films on CERN, and a career as a physicist (2010)
+   * ‘Putting the Fizz Back Into Physics’, article for Physics World magazine (September 1998)
