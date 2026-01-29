@@ -119,7 +119,12 @@ Journal publications:
    * *Search for physics beyond the standard model in high-mass diphoton events from proton-proton collisions at sqrt(s)= 13 TeV*, CMS Collaboration, [arXiv:1809.00327](https://arxiv.org/abs/1809.00327), [Phys. Rev. D 98, 092001 (2018)](https://doi.org/10.1103/PhysRevD.98.092001) [119 citations]
    * *Search for high-mass diphoton resonances in proton–proton collisions at 13 TeV and combination with 8 TeV search*, CMS Collaboration, [Phys. Lett. B 767, 147-170 (2017)](doi:10.1016/j.physletb.2017.01.027); [arXiv:1609.02507](https://arxiv.org/abs/1609.02507).
    * *Search for Signatures of Extra Dimensions in the Diphoton Mass Spectrum at the Large Hadron Collider*, S. Chatrchyan et al (CMS Collaboration), [Phys. Rev. Lett. 108, 111801 (2012)](https://doi.org/10.1103/PhysRevLett.108.111801).
-   * 
+   * *Global Search for New Physics with 2.0/fb at CDF*, T Aaltonen et al (CDF Collaboration), Phys. Rev. D 79, 011101 (2009)
+
+     [This paper was selected by Nature Physics as one of its 5 featured papers across all of physics for February 2009 (Nature Physics 5, 85 (2009))].
+   * *Model-Independent and Quasi-Model-Independent Search for New Physics at CDF*, T Aaltonen et al (CDF Collaboration), Phys. Rev. D 78, 012002 (2008)
+
+     [This novel approach to searching for beyond-Standard Model physics was featured in a number of articles in the science press, including Nature News (“Particle physicists hunt for the unexpected”, 8 May 2007) and Scientific American (“Colliding Philosophies”, April 2009).]
 
 
 
