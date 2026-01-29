@@ -128,11 +128,11 @@ Undergraduate research supervision through CERN Summer School program:
    * *Results of a Global Search for New Physics at CDF*, Plenary talk at Moriond QCD 2008, 10 March 2008,  La Thuile, Italy.
    * *Sleuth: Results of a Quasi-Model-Independent Search for New Physics in 1 fb$^{-1}$ at CDF*, Parallel talk at PHENO 2007, 7 May 2007, Madison, WI.
    * *Vista: A New Method for an Inclusive Search of Tevatron Run II Data*, Parallel talk at PHENO 2006, 15 May 2006, Madison, WI.
-   * ‘Charged Hadron pT Spectra from Au+Au Collisions at 62.4 GeV’, Parallel talk at Division of Nuclear Physics Meeting, 29 October 2004, Chicago, IL.
-   * ‘Charged Hadron Spectra from PHOBOS’, Participant presentation at 16th Summer School in Nuclear Physics 13-25 June 2004, College of the Atlantic, Bar Harbor, ME.
-   * ‘Strangeness Production in PHOBOS’, Plenary talk at RHIC/AGS Users’ Meeting Workshop on ‘Strangeness and Exotica at RHIC’ 14 May 2004, Brookhaven National Laboratory, NY.
-   * ‘Charged Hadron Transverse Momentum Distributions at High pT in Au+Au collisions at 200 GeV’, Parallel talk at Division of Nuclear Physics Meeting, 10 October 2002, Lansing, MI.
-   * ‘Measurement Of Charged Antiparticle To Particle Ratios by the PHOBOS Detector at RHIC’, Parallel talk at American Physical Society April Meeting, 30 April 2001, Washington DC.
+   * *Charged Hadron pT Spectra from Au+Au Collisions at 62.4 GeV*, Parallel talk at Division of Nuclear Physics Meeting, 29 October 2004, Chicago, IL.
+   * *Charged Hadron Spectra from PHOBOS*, Participant presentation at 16th Summer School in Nuclear Physics 13-25 June 2004, College of the Atlantic, Bar Harbor, ME.
+   * *Strangeness Production in PHOBOS*, Plenary talk at RHIC/AGS Users Meeting Workshop on ‘Strangeness and Exotica at RHIC’ 14 May 2004, Brookhaven National Laboratory, NY.
+   * *Charged Hadron Transverse Momentum Distributions at High pT in Au+Au collisions at 200 GeV*, Parallel talk at Division of Nuclear Physics Meeting, 10 October 2002, Lansing, MI.
+   * *Measurement Of Charged Antiparticle To Particle Ratios by the PHOBOS Detector at RHIC*, Parallel talk at American Physical Society April Meeting, 30 April 2001, Washington DC.
 
 
 
