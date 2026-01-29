@@ -116,7 +116,9 @@ Undergraduate research supervision through CERN Summer School program:
 
 Journal publications:
    * *Search for new physics in high-mass diphoton events from proton-proton collisions at √s = 13 TeV*, CMS Collaboration, [arXiv:2405.09320](https://arxiv.org/abs/2405.09320), [JHEP 08 (2024) 215](https://doi.org/10.1007/JHEP08%282024%29215)
-   * *Search for physics beyond the standard model in high-mass diphoton events from proton-proton collisions at sqrt(s)= 13 TeV*, CMS Collaboration, [arXiv:1809.00327](https://arxiv.org/abs/1809.00327), [https://doi.org/10.1103/PhysRevD.98.092001](Phys. Rev. D 98, 092001 (2018)) [119 citations]
+   * *Search for physics beyond the standard model in high-mass diphoton events from proton-proton collisions at sqrt(s)= 13 TeV*, CMS Collaboration, [arXiv:1809.00327](https://arxiv.org/abs/1809.00327), [Phys. Rev. D 98, 092001 (2018)](https://doi.org/10.1103/PhysRevD.98.092001) [119 citations]
+   * *Search for high-mass diphoton resonances in proton–proton collisions at 13 TeV and combination with 8 TeV search*, CMS Collaboration, [Phys. Lett. B 767, 147-170 (2017)](doi:10.1016/j.physletb.2017.01.027); [arXiv:1609.02507](https://arxiv.org/abs/1609.02507).
+   * *Search for Signatures of Extra Dimensions in the Diphoton Mass Spectrum at the Large Hadron Collider*, S. Chatrchyan et al (CMS Collaboration), [Phys. Rev. Lett. 108, 111801 (2012)](https://doi.org/10.1103/PhysRevLett.108.111801).
    * 
 
 
@@ -174,7 +176,7 @@ Journal publications:
    * Member of Steering Committee for APS Bridge Program at the University of Cincinnati
 (UC), 2022-present
    * Member of UC Physics department APS-IDEA team, 2022 - present
-   * University of Alabama (UA) College of Arts & Sciences Dean’s Postdoctoral Fellowship Se- lection Committee member, 2019-20
+   * University of Alabama (UA) College of Arts & Sciences Dean’s Postdoctoral Fellowship Selection Committee member, 2019-20
    * UA Faculty Senate member, 2019-20 (member of Research & Service Committee)
    * Director of Graduate Studies, University of Alabama Department of Physics & Astronomy,
 2017-19
