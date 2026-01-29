@@ -125,7 +125,7 @@ Journal publications:
    * *Model-Independent and Quasi-Model-Independent Search for New Physics at CDF*, T Aaltonen et al (CDF Collaboration), Phys. Rev. D 78, 012002 (2008) [108 citations]
 
      [This novel approach to searching for beyond-Standard Model physics was featured in a number of articles in the science press, including Nature News (“Particle physicists hunt for the unexpected”, 8 May 2007) and Scientific American (“Colliding Philosophies”, April 2009).]
-   * *Identified Hadron Transverse Momentum Spectra in Au+Au Collisions at √sNN = 62.4 GeV*, BB Back et al (PHOBOS Collaboration), Phys. Rev. C 75, 024910 (2007)
+   * *Identified Hadron Transverse Momentum Spectra in Au+Au Collisions at √sNN = 62.4 GeV*, BB Back et al (PHOBOS Collaboration), Phys. Rev. C 75, 024910 (2007) [62 citations]
    * *Centrality Dependence of Charged Hadron Transverse Momentum Spectra in Au+Au Collisions from √sNN = 62.4 to 200 GeV*, BB Back et al (PHOBOS Collaboration), Phys. Rev. Lett. 94, 082304 (2005)
    * *Charged Hadron Transverse Momentum Distributions in Au+Au Collisions at √sNN = 200 GeV*, BB Back et al (PHOBOS Collaboration), Phys. Lett. B578, 297 (2004)
    * *Centrality Dependence of the Charged Hadron Transverse Momentum Spectra in d+Au Collisions at √sNN=200 GeV*, BB Back et al (PHOBOS Collaboration), Phys. Rev. Lett. 91, 072302 (2003)
