@@ -131,6 +131,15 @@ Journal publications:
    * *Centrality Dependence of the Charged Hadron Transverse Momentum Spectra in d+Au Collisions at √sNN=200 GeV*, BB Back et al (PHOBOS Collaboration), Phys. Rev. Lett. 91, 072302 (2003)
    * *Ratios of Charged Particles to Antiparticles near Mid-rapidity in Au+Au Collisions at √sNN= 130 GeV*, BB Back et al (PHOBOS Collaboration), Phys. Rev. Lett. 87, 102301 (2001)
 
+Preliminary public results:
+  * *Search for new physics in high mass diphoton events in proton-proton collisions at sqrt(s)=13 TeV*, CMS Collaboration, [Physics Analysis Summary EXO-15-004](http://cds.cern.ch/record/2114808), December 2015.
+
+Workshop/conference proceedings and White papers:
+   * *Future physics potential of LHCb*, LHCb Collaboration, [CERN-LHCb-PUB-2022-012](https://cds.cern.ch/record/2806113/), white paper submitted to 2022 US HEP Snowmass Planning Activity (April 2022)
+   * *Future Physics Prospects with the CMS Detector at the High-Luminosity LHC*, C. Henderson on behalf of the CMS Collaboration, Proceedings of XXVIII International Workshop on Deep-Inelastic Scattering and Related Subjects (DIS 2021), CMS CR-2021/077, arXiv:2107.09835, [SciPost Phys. Proc. 8, 111 (2022)](10.21468/SciPostPhysProc.8.111).
+   * *Recent Exotic Search Results from CMS*, C. Henderson on behalf of the CMS Collaboration, Proceedings of Les Rencontres de Physique de la Vallee D’Aoste, La Thuile 2015, [CMS-CR-2015-098](http://cds.cern.ch/record/2021760/), [Il Nuovo Cimento 38 C (2015) 151](10.1393/ncc/i2015-15151-9)
+   * *An Exotic Photon Cloud Trigger for CMS*, C. Henderson, Proceedings of the 2009 Les Houches Workshop on New Physics at the LHC, arXiv:1005.1229
+   * *Results Of A Model-Independent Global Search For New Physics At CDF*, C. Henderson for the CDF Collaboration, [arXiv:0805.0742](https://arxiv.org/abs/0805.0742), Proceedings of the XLIIIth Rencontres de Moriond: QCD and High-Energy Interactions 2008
 
 
 
