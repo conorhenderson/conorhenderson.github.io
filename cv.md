@@ -112,6 +112,43 @@ Undergraduate research supervision, University of Alabama, 2011-22:
 Undergraduate research supervision through CERN Summer School program:
    * Kylene Monaghan, 2025 [awarded [2026 Rhodes Scholarship](https://www.rhodeshouse.ox.ac.uk/scholar-community/rhodes-scholar-bios/rhodes-scholars-class-of-2026/kylene-monaghan/)]; Gabriella Pesticci, 2024 [now PhD program at Michigan State]; Carrie Cox, 2023 [now at Stony Brook]; Uzzie Perez, 2015 [later PhD from Alabama]; Donal Hill [later DPhil from Oxford], Mark Ross-Lonergan [now Assistant Prof at Columbia], 2010; Marco Peruzzi, 2009 [later PhD from ETH Zurich]
 
+## Publications as a Primary Author
+
+Journal publications:
+   * *Search for new physics in high-mass diphoton events from proton-proton collisions at √s = 13 TeV*, CMS Collaboration, [arXiv:2405.09320](https://arxiv.org/abs/2405.09320), [JHEP 08 (2024) 215](https://doi.org/10.1007/JHEP08%282024%29215)
+   * *Search for physics beyond the standard model in high-mass diphoton events from proton-proton collisions at sqrt(s)= 13 TeV*, CMS Collaboration, [arXiv:1809.00327](https://arxiv.org/abs/1809.00327), [Phys. Rev. D 98, 092001 (2018)](https://doi.org/10.1103/PhysRevD.98.092001) [119 citations]
+   * *Search for high-mass diphoton resonances in proton–proton collisions at 13 TeV and combination with 8 TeV search*, CMS Collaboration, [Phys. Lett. B 767, 147-170 (2017)](doi:10.1016/j.physletb.2017.01.027); [arXiv:1609.02507](https://arxiv.org/abs/1609.02507).
+   * *Search for Signatures of Extra Dimensions in the Diphoton Mass Spectrum at the Large Hadron Collider*, S. Chatrchyan et al (CMS Collaboration), [Phys. Rev. Lett. 108, 111801 (2012)](https://doi.org/10.1103/PhysRevLett.108.111801).
+   * *Global Search for New Physics with 2.0/fb at CDF*, T Aaltonen et al (CDF Collaboration), [Phys. Rev. D 79, 011101 (2009)](https://doi.org/10.1103/PhysRevD.79.011101) [152 citations]
+
+     [This paper was selected by Nature Physics as one of its 5 featured papers across all of physics for February 2009 (Nature Physics 5, 85 (2009))].
+   * *Model-Independent and Quasi-Model-Independent Search for New Physics at CDF*, T Aaltonen et al (CDF Collaboration), Phys. Rev. D 78, 012002 (2008) [108 citations]
+
+     [This novel approach to searching for beyond-Standard Model physics was featured in a number of articles in the science press, including Nature News (“Particle physicists hunt for the unexpected”, 8 May 2007) and Scientific American (“Colliding Philosophies”, April 2009).]
+   * *Identified Hadron Transverse Momentum Spectra in Au+Au Collisions at √sNN = 62.4 GeV*, BB Back et al (PHOBOS Collaboration), Phys. Rev. C 75, 024910 (2007)
+   * *Centrality Dependence of Charged Hadron Transverse Momentum Spectra in Au+Au Collisions from √sNN = 62.4 to 200 GeV*, BB Back et al (PHOBOS Collaboration), Phys. Rev. Lett. 94, 082304 (2005)
+   * *Charged Hadron Transverse Momentum Distributions in Au+Au Collisions at √sNN = 200 GeV*, BB Back et al (PHOBOS Collaboration), Phys. Lett. B578, 297 (2004)
+   * *Centrality Dependence of the Charged Hadron Transverse Momentum Spectra in d+Au Collisions at √sNN=200 GeV*, BB Back et al (PHOBOS Collaboration), Phys. Rev. Lett. 91, 072302 (2003)
+   * *Ratios of Charged Particles to Antiparticles near Mid-rapidity in Au+Au Collisions at √sNN= 130 GeV*, BB Back et al (PHOBOS Collaboration), Phys. Rev. Lett. 87, 102301 (2001)
+
+Preliminary public results:
+  * *Search for new physics in high mass diphoton events in proton-proton collisions at sqrt(s)=13 TeV*, CMS Collaboration, [Physics Analysis Summary EXO-15-004](http://cds.cern.ch/record/2114808), December 2015.
+
+Workshop/conference proceedings and White papers:
+   * *Future physics potential of LHCb*, LHCb Collaboration, [CERN-LHCb-PUB-2022-012](https://cds.cern.ch/record/2806113/), white paper submitted to 2022 US HEP Snowmass Planning Activity (April 2022)
+   * *Future Physics Prospects with the CMS Detector at the High-Luminosity LHC*, C. Henderson on behalf of the CMS Collaboration, Proceedings of XXVIII International Workshop on Deep-Inelastic Scattering and Related Subjects (DIS 2021), CMS CR-2021/077, arXiv:2107.09835, [SciPost Phys. Proc. 8, 111 (2022)](10.21468/SciPostPhysProc.8.111).
+   * *Recent Exotic Search Results from CMS*, C. Henderson on behalf of the CMS Collaboration, Proceedings of Les Rencontres de Physique de la Vallee D’Aoste, La Thuile 2015, [CMS-CR-2015-098](http://cds.cern.ch/record/2021760/), [Il Nuovo Cimento 38 C (2015) 151](10.1393/ncc/i2015-15151-9)
+   * *An Exotic Photon Cloud Trigger for CMS*, C. Henderson, Proceedings of the 2009 Les Houches Workshop on New Physics at the LHC, arXiv:1005.1229
+   * *Results Of A Model-Independent Global Search For New Physics At CDF*, C. Henderson for the CDF Collaboration, [arXiv:0805.0742](https://arxiv.org/abs/0805.0742), Proceedings of the XLIIIth Rencontres de Moriond: QCD and High-Energy Interactions 2008
+
+
+In addition, I am a co-author on:
+   * 180 peer-reviewed publications by the LHCb collaboration, with over 4,800 citations (2022- present; affiliation: University of Cincinnati)
+   * 1179 peer-reviewed publications by the CMS collaboration, with over 180,000 citations (2009-2024; affiliations: CERN, University of Alabama)
+   * 145 peer-reviewed publications by the CDF Collaboration (2006-2009; affiliation: MIT), with over 13,000 citations
+   * 42 peer-reviewed publications by the PHOBOS Collaboration since 2000 (affiliation: MIT), with over 8,800 citations
+
+
 
 ## Conference Presentations
 
@@ -125,6 +162,13 @@ Undergraduate research supervision through CERN Summer School program:
    * *Results of a Global Search for New Physics at CDF*, Plenary talk at Moriond QCD 2008, 10 March 2008,  La Thuile, Italy.
    * *Sleuth: Results of a Quasi-Model-Independent Search for New Physics in 1 fb$^{-1}$ at CDF*, Parallel talk at PHENO 2007, 7 May 2007, Madison, WI.
    * *Vista: A New Method for an Inclusive Search of Tevatron Run II Data*, Parallel talk at PHENO 2006, 15 May 2006, Madison, WI.
+   * *Charged Hadron pT Spectra from Au+Au Collisions at 62.4 GeV*, Parallel talk at Division of Nuclear Physics Meeting, 29 October 2004, Chicago, IL.
+   * *Charged Hadron Spectra from PHOBOS*, Participant presentation at 16th Summer School in Nuclear Physics 13-25 June 2004, College of the Atlantic, Bar Harbor, ME.
+   * *Strangeness Production in PHOBOS*, Plenary talk at RHIC/AGS Users Meeting Workshop on ‘Strangeness and Exotica at RHIC’ 14 May 2004, Brookhaven National Laboratory, NY.
+   * *Charged Hadron Transverse Momentum Distributions at High pT in Au+Au collisions at 200 GeV*, Parallel talk at Division of Nuclear Physics Meeting, 10 October 2002, Lansing, MI.
+   * *Measurement Of Charged Antiparticle To Particle Ratios by the PHOBOS Detector at RHIC*, Parallel talk at American Physical Society April Meeting, 30 April 2001, Washington DC.
+
+
 
 ## Research Seminars
    * ‘Searching for Extra Dimensions at the LHC with CMS‘ – The Ohio State University, 15 October 2018
@@ -158,9 +202,22 @@ Undergraduate research supervision through CERN Summer School program:
    * Member of Steering Committee for APS Bridge Program at the University of Cincinnati
 (UC), 2022-present
    * Member of UC Physics department APS-IDEA team, 2022 - present
-   * University of Alabama (UA) College of Arts & Sciences Dean’s Postdoctoral Fellowship Se- lection Committee member, 2019-20
+   * University of Alabama (UA) College of Arts & Sciences Dean’s Postdoctoral Fellowship Selection Committee member, 2019-20
    * UA Faculty Senate member, 2019-20 (member of Research & Service Committee)
    * Director of Graduate Studies, University of Alabama Department of Physics & Astronomy,
 2017-19
 
      
+## Outreach Activities
+
+   * Primary mentor and organiser for Univ of Cincinnati [QuarkNet](https://quarknet.org/) workshop for high-school physics teacher training in high-energy physics research (2023-present)
+   * Volunteer judge for elementary- and middle-school physics projects competing for Gordon J. Aubrecht Award for Outstanding Physics Projects, South-East Ohio State Science Day, Ohio Academy of Sciences (2022-23)
+   * “Inside the Atom: from Quarks and Leptons to the Higgs Boson”, public outreach lecture to Cincinnati Mensa Gathering (December 2023)
+   * “Inside the Atom: from Quarks and Leptons to the Higgs Boson”, public outreach lecture to New Horizons retiree group at the Univ of Alabama-Birmingham (April 2015)
+   * Member of organizing committee for annual Univ of Alabama High School Physics Contest, 2012-15.
+   * Organized Univ. of Alabama Physics Dept public talk by Dr. Albert De Roeck (CERN), a leader of the CMS Higgs working group, on the discovery of the Higgs Boson at the Large Hadron Collider, 28 August 2013
+   * Public Night talk at UA, ‘Hunting the Higgs Boson at the Large Hadron Collider’ (26 January 2013)
+   * Talks with High School (A-level) physics students at Lismore Comprehensive School, Craigavon, Northern Ireland (May 2008, September 2009)
+   * Interview with local newspaper (Lurgan Mail, 1 October 2009)
+   * Interviewed for Northern Ireland schools documentary films on CERN, and a career as a physicist (2010)
+   * ‘Putting the Fizz Back Into Physics’, article for Physics World magazine (September 1998)
