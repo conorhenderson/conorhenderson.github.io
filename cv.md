@@ -114,6 +114,10 @@ Undergraduate research supervision through CERN Summer School program:
 
 ## Publications as a Primary Author
 
+Journal publications:
+   * *Search for new physics in high-mass diphoton events from proton-proton collisions at √s = 13 TeV*, CMS Collaboration, [arXiv:2405.09320](https://arxiv.org/abs/2405.09320), [JHEP 08 (2024) 215](https://doi.org/10.1007/JHEP08%282024%29215)
+   * 
+
 
 
 ## Conference Presentations
