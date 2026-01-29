@@ -142,6 +142,13 @@ Workshop/conference proceedings and White papers:
    * *Results Of A Model-Independent Global Search For New Physics At CDF*, C. Henderson for the CDF Collaboration, [arXiv:0805.0742](https://arxiv.org/abs/0805.0742), Proceedings of the XLIIIth Rencontres de Moriond: QCD and High-Energy Interactions 2008
 
 
+In addition, I am a co-author on:
+   * 180 peer-reviewed publications by the LHCb collaboration, with over 4,800 citations (2022- present; affiliation: University of Cincinnati)
+   * 1179 peer-reviewed publications by the CMS collaboration, with over 180,000 citations (2009-2024; affiliations: CERN, University of Alabama)
+   * 145 peer-reviewed publications by the CDF Collaboration (2006-2009; affiliation: MIT), with over 13,000 citations
+   * 42 peer-reviewed publications by the PHOBOS Collaboration since 2000 (affiliation: MIT), with over 8,800 citations
+
+
 
 ## Conference Presentations
 
