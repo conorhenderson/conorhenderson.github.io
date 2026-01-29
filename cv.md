@@ -117,7 +117,7 @@ Undergraduate research supervision through CERN Summer School program:
 Journal publications:
    * *Search for new physics in high-mass diphoton events from proton-proton collisions at √s = 13 TeV*, CMS Collaboration, [arXiv:2405.09320](https://arxiv.org/abs/2405.09320), [JHEP 08 (2024) 215](https://doi.org/10.1007/JHEP08%282024%29215)
    * *Search for physics beyond the standard model in high-mass diphoton events from proton-proton collisions at sqrt(s)= 13 TeV*, CMS Collaboration, [arXiv:1809.00327](https://arxiv.org/abs/1809.00327), [Phys. Rev. D 98, 092001 (2018)](https://doi.org/10.1103/PhysRevD.98.092001) [119 citations]
-   * *Search for high-mass diphoton resonances in proton–proton collisions at 13 TeV and combination with 8 TeV search*, CMS Collaboration, [Phys. Lett. B 767, 147-170 (2017)](doi:10.1016/j.physletb.2017.01.027); [arXiv:1609.02507](https://arxiv.org/abs/1609.02507).
+   * *Search for high-mass diphoton resonances in proton–proton collisions at 13 TeV and combination with 8 TeV search*, CMS Collaboration, [Phys. Lett. B 767, 147-170 (2017)](https://doi.org/10.1016/j.physletb.2017.01.027); [arXiv:1609.02507](https://arxiv.org/abs/1609.02507).
    * *Search for Signatures of Extra Dimensions in the Diphoton Mass Spectrum at the Large Hadron Collider*, S. Chatrchyan et al (CMS Collaboration), [Phys. Rev. Lett. 108, 111801 (2012)](https://doi.org/10.1103/PhysRevLett.108.111801).
    * *Global Search for New Physics with 2.0/fb at CDF*, T Aaltonen et al (CDF Collaboration), [Phys. Rev. D 79, 011101 (2009)](https://doi.org/10.1103/PhysRevD.79.011101) [152 citations]
 
@@ -138,7 +138,7 @@ Workshop/conference proceedings and White papers:
    * *Future physics potential of LHCb*, LHCb Collaboration, [CERN-LHCb-PUB-2022-012](https://cds.cern.ch/record/2806113/), white paper submitted to 2022 US HEP Snowmass Planning Activity (April 2022)
    * *Future Physics Prospects with the CMS Detector at the High-Luminosity LHC*, C. Henderson on behalf of the CMS Collaboration, Proceedings of XXVIII International Workshop on Deep-Inelastic Scattering and Related Subjects (DIS 2021), CMS CR-2021/077, arXiv:2107.09835, [SciPost Phys. Proc. 8, 111 (2022)](https://doi.org/10.21468/SciPostPhysProc.8.111).
    * *Recent Exotic Search Results from CMS*, C. Henderson on behalf of the CMS Collaboration, Proceedings of Les Rencontres de Physique de la Vallee D’Aoste, La Thuile 2015, [CMS-CR-2015-098](http://cds.cern.ch/record/2021760/), [Il Nuovo Cimento 38 C (2015) 151](https://doi.org/10.1393/ncc/i2015-15151-9)
-   * *An Exotic Photon Cloud Trigger for CMS*, C. Henderson, Proceedings of the 2009 Les Houches Workshop on New Physics at the LHC, arXiv:1005.1229
+   * *An Exotic Photon Cloud Trigger for CMS*, C. Henderson, Proceedings of the 2009 Les Houches Workshop on New Physics at the LHC, [arXiv:1005.1229](https://arxiv.org/abs/1005.1229)
    * *Results Of A Model-Independent Global Search For New Physics At CDF*, C. Henderson for the CDF Collaboration, [arXiv:0805.0742](https://arxiv.org/abs/0805.0742), Proceedings of the XLIIIth Rencontres de Moriond: QCD and High-Energy Interactions 2008
 
 
