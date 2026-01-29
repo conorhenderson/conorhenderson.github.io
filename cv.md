@@ -122,10 +122,10 @@ Journal publications:
    * *Global Search for New Physics with 2.0/fb at CDF*, T Aaltonen et al (CDF Collaboration), [Phys. Rev. D 79, 011101 (2009)](https://doi.org/10.1103/PhysRevD.79.011101) [152 citations]
 
      [This paper was selected by Nature Physics as one of its 5 featured papers across all of physics for February 2009 (Nature Physics 5, 85 (2009))].
-   * *Model-Independent and Quasi-Model-Independent Search for New Physics at CDF*, T Aaltonen et al (CDF Collaboration), Phys. Rev. D 78, 012002 (2008) [108 citations]
+   * *Model-Independent and Quasi-Model-Independent Search for New Physics at CDF*, T Aaltonen et al (CDF Collaboration), [Phys. Rev. D 78, 012002 (2008)](https://doi.org/10.1103/PhysRevD.78.012002) [108 citations]
 
      [This novel approach to searching for beyond-Standard Model physics was featured in a number of articles in the science press, including Nature News (“Particle physicists hunt for the unexpected”, 8 May 2007) and Scientific American (“Colliding Philosophies”, April 2009).]
-   * *Identified Hadron Transverse Momentum Spectra in Au+Au Collisions at √sNN = 62.4 GeV*, BB Back et al (PHOBOS Collaboration), Phys. Rev. C 75, 024910 (2007) [62 citations]
+   * *Identified Hadron Transverse Momentum Spectra in Au+Au Collisions at √sNN = 62.4 GeV*, BB Back et al (PHOBOS Collaboration), [Phys. Rev. C 75, 024910 (2007)](https://doi.org/10.1103/PhysRevC.75.024910 ) [62 citations]
    * *Centrality Dependence of Charged Hadron Transverse Momentum Spectra in Au+Au Collisions from √sNN = 62.4 to 200 GeV*, BB Back et al (PHOBOS Collaboration), Phys. Rev. Lett. 94, 082304 (2005)
    * *Charged Hadron Transverse Momentum Distributions in Au+Au Collisions at √sNN = 200 GeV*, BB Back et al (PHOBOS Collaboration), Phys. Lett. B578, 297 (2004)
    * *Centrality Dependence of the Charged Hadron Transverse Momentum Spectra in d+Au Collisions at √sNN=200 GeV*, BB Back et al (PHOBOS Collaboration), Phys. Rev. Lett. 91, 072302 (2003)
@@ -136,8 +136,8 @@ Preliminary public results:
 
 Workshop/conference proceedings and White papers:
    * *Future physics potential of LHCb*, LHCb Collaboration, [CERN-LHCb-PUB-2022-012](https://cds.cern.ch/record/2806113/), white paper submitted to 2022 US HEP Snowmass Planning Activity (April 2022)
-   * *Future Physics Prospects with the CMS Detector at the High-Luminosity LHC*, C. Henderson on behalf of the CMS Collaboration, Proceedings of XXVIII International Workshop on Deep-Inelastic Scattering and Related Subjects (DIS 2021), CMS CR-2021/077, arXiv:2107.09835, [SciPost Phys. Proc. 8, 111 (2022)](10.21468/SciPostPhysProc.8.111).
-   * *Recent Exotic Search Results from CMS*, C. Henderson on behalf of the CMS Collaboration, Proceedings of Les Rencontres de Physique de la Vallee D’Aoste, La Thuile 2015, [CMS-CR-2015-098](http://cds.cern.ch/record/2021760/), [Il Nuovo Cimento 38 C (2015) 151](10.1393/ncc/i2015-15151-9)
+   * *Future Physics Prospects with the CMS Detector at the High-Luminosity LHC*, C. Henderson on behalf of the CMS Collaboration, Proceedings of XXVIII International Workshop on Deep-Inelastic Scattering and Related Subjects (DIS 2021), CMS CR-2021/077, arXiv:2107.09835, [SciPost Phys. Proc. 8, 111 (2022)](https://doi.org/10.21468/SciPostPhysProc.8.111).
+   * *Recent Exotic Search Results from CMS*, C. Henderson on behalf of the CMS Collaboration, Proceedings of Les Rencontres de Physique de la Vallee D’Aoste, La Thuile 2015, [CMS-CR-2015-098](http://cds.cern.ch/record/2021760/), [Il Nuovo Cimento 38 C (2015) 151](https://doi.org/10.1393/ncc/i2015-15151-9)
    * *An Exotic Photon Cloud Trigger for CMS*, C. Henderson, Proceedings of the 2009 Les Houches Workshop on New Physics at the LHC, arXiv:1005.1229
    * *Results Of A Model-Independent Global Search For New Physics At CDF*, C. Henderson for the CDF Collaboration, [arXiv:0805.0742](https://arxiv.org/abs/0805.0742), Proceedings of the XLIIIth Rencontres de Moriond: QCD and High-Energy Interactions 2008
 
