@@ -133,6 +133,7 @@ Preliminary public results:
   * *Search for new physics in high mass diphoton events in proton-proton collisions at sqrt(s)=13 TeV*, CMS Collaboration, [Physics Analysis Summary EXO-15-004](http://cds.cern.ch/record/2114808), December 2015.
 
 Workshop/conference proceedings and White papers:
+   * *Deploying a Hybrid PVFinder Algorithm for Primary Vertex Reconstruction in LHCb's GPU-Resident HLT1*, Mohamed Elashri, C. Henderson et al, [Proceedings of 'Connecting the Dots 2025'](https://arxiv.org/abs/2602.19959v1)
    * *Future physics potential of LHCb*, LHCb Collaboration, [CERN-LHCb-PUB-2022-012](https://cds.cern.ch/record/2806113/), white paper submitted to 2022 US HEP Snowmass Planning Activity (April 2022)
    * *Future Physics Prospects with the CMS Detector at the High-Luminosity LHC*, C. Henderson on behalf of the CMS Collaboration, Proceedings of XXVIII International Workshop on Deep-Inelastic Scattering and Related Subjects (DIS 2021), CMS CR-2021/077, arXiv:2107.09835, [SciPost Phys. Proc. 8, 111 (2022)](https://doi.org/10.21468/SciPostPhysProc.8.111).
    * *Recent Exotic Search Results from CMS*, C. Henderson on behalf of the CMS Collaboration, Proceedings of Les Rencontres de Physique de la Vallee D’Aoste, La Thuile 2015, [CMS-CR-2015-098](http://cds.cern.ch/record/2021760/), [Il Nuovo Cimento 38 C (2015) 151](https://doi.org/10.1393/ncc/i2015-15151-9)
