@@ -209,7 +209,7 @@ In addition, I am a co-author on:
 ## Outreach Activities
 
    * Primary mentor and organiser for Univ of Cincinnati [QuarkNet](https://quarknet.org/) workshop for high-school physics teacher training in high-energy physics research (2023-present)
-   * Volunteer judge for elementary- and middle-school physics projects competing for Gordon J. Aubrecht Award for Outstanding Physics Projects, South-East Ohio State Science Day, Ohio Academy of Sciences (2022-23)
+   * Volunteer judge for elementary- and middle-school physics projects competing for Gordon J. Aubrecht Award for Outstanding Physics Projects, South-East Ohio State Science Day, Ohio Academy of Sciences (2022-23, 2026)
    * “Inside the Atom: from Quarks and Leptons to the Higgs Boson”, public outreach lecture to Cincinnati Mensa Gathering (December 2023)
    * “Inside the Atom: from Quarks and Leptons to the Higgs Boson”, public outreach lecture to New Horizons retiree group at the Univ of Alabama-Birmingham (April 2015)
    * Member of organizing committee for annual Univ of Alabama High School Physics Contest, 2012-15.
