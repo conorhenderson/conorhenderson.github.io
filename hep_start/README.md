@@ -13,6 +13,7 @@ then consult ['Particle Detectors at Accelerators'](https://pdg.lbl.gov/2023/web
 (Note: the direct links provided here are for the 2023 versions which may not be the most up-to-date at the time you are viewing this)
 
 <!-- Can I find a more gentle intro to HEP detectors? Perhaps from a summer school? -->
+The textbook "Introduction to High Energy Physics" by DH Perkins also has a good introduction to particle accelerators and detectors (Ch2 in the 3rd Edition), albeit this is not as up-to-date as the PDG material.
 
  Your fundamental goals from this reading should be:
  * get a basic idea of ionization energy loss for charged particles, and the Bethe-Bloch formula
