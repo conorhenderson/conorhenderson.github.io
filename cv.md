@@ -1,6 +1,6 @@
 # Conor Henderson - University of Cincinnati
 
-ORCID: 0000-0002-6986-9404 <br>
+ORCID: [0000-0002-6986-9404](https://orcid.org/my-orcid?orcid=0000-0002-6986-9404) <br>
 [INSPIRE Author page](https://inspirehep.net/authors/1030277)
 
 ## Academic Positions
