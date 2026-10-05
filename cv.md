@@ -199,7 +199,7 @@ In addition, I am a co-author on:
 
 ## Academic and Institutional Service (Selected)
 
-   * Fulbright Scholarship U.S. Student National Screening Committee member, 2025
+   * Fulbright Scholarship U.S. Student National Screening Committee member, 2025-present
    * Member of Steering Committee for APS Bridge Program at the University of Cincinnati
 (UC), 2022-present
    * Member of UC Physics department APS-IDEA team, 2022 - present
