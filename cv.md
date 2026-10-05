@@ -144,10 +144,10 @@ Workshop/conference proceedings and White papers:
 
 
 In addition, I am a co-author on:
-   * 180 peer-reviewed publications by the LHCb collaboration, with over 4,800 citations (2022- present; affiliation: University of Cincinnati)
-   * 1179 peer-reviewed publications by the CMS collaboration, with over 180,000 citations (2009-2024; affiliations: CERN, University of Alabama)
+   * 220 peer-reviewed publications by the LHCb collaboration, with over 6,000 citations (2022- present; affiliation: University of Cincinnati)
+   * 1179 peer-reviewed publications by the CMS collaboration, with over 185,000 citations (2009-2024; affiliations: CERN, University of Alabama)
    * 145 peer-reviewed publications by the CDF Collaboration (2006-2009; affiliation: MIT), with over 13,000 citations
-   * 42 peer-reviewed publications by the PHOBOS Collaboration since 2000 (affiliation: MIT), with over 8,800 citations
+   * 42 peer-reviewed publications by the PHOBOS Collaboration since 2000 (affiliation: MIT), with over 9,000 citations
 
 
 
