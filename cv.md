@@ -152,8 +152,8 @@ In addition, I am a co-author on:
 
 ## Conference Presentations
 
-   * *Electroweak Measurements and Light-particle Searches with LHCb*, Plenary talk at ['Paving the Way to New Discoveries in Particle Physics'](https://indico.cern.ch/event/1562147/) , Aspen Colorado, 6-9 Feb 2026
-   *  *Recent Results from LHCb*, Plenary talk at Pheno 2023, 8-10 May 2023, Pittsburgh PA. 
+   * [*Electroweak Measurements and Light-particle Searches with LHCb*](https://indico.cern.ch/event/1562147/contributions/6857716/), Plenary talk at ['Paving the Way to New Discoveries in Particle Physics'](https://indico.cern.ch/event/1562147/) , Aspen Colorado, 6-9 Feb 2026
+   *  [*Recent Results from LHCb*](https://indico.global/event/797/contributions/22165/), Plenary talk at [Pheno 2023](https://indico.global/event/797/), 8-10 May 2023, Pittsburgh PA. 
    *   *Future Physics Prospects with the CMS Detector at the High-Luminosity LHC*, XXVIII International Workshop on Deep-Inelastic Scattering and Related Subjects (DIS 2021), April 2021, Stony Brook University, NY.
    * *Recent Higgs Boson Physics Results from CMS*, Invited talk at 2019 Annual meeting of the Southeastern Section of the American Physical Society (SESAPS 2019), 7-9 November 2019, Wrightsville Beach, NC.
    *  *Search for nonresonant new phenomena in final states with leptons, photons and jets at CMS*,  Parallel talk at Pheno 2018, 7 May 2018, Pittsburgh, PA. 
