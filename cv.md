@@ -116,6 +116,7 @@ Undergraduate research supervision through CERN Summer School program:
 ## Publications as a Primary Author
 
 Journal publications:
+   * *First measurement of the forward rapidity dependence of W boson transverse helicity fractions*, LHCb Collaboration, [arXiv:2609.22555](https://arxiv.org/abs/2609.22555), submitted to Physical Review Letters
    * *Search for new physics in high-mass diphoton events from proton-proton collisions at √s = 13 TeV*, CMS Collaboration, [arXiv:2405.09320](https://arxiv.org/abs/2405.09320), [JHEP 08 (2024) 215](https://doi.org/10.1007/JHEP08%282024%29215)
    * *Search for physics beyond the standard model in high-mass diphoton events from proton-proton collisions at sqrt(s)= 13 TeV*, CMS Collaboration, [arXiv:1809.00327](https://arxiv.org/abs/1809.00327), [Phys. Rev. D 98, 092001 (2018)](https://doi.org/10.1103/PhysRevD.98.092001) [119 citations]
    * *Search for high-mass diphoton resonances in proton–proton collisions at 13 TeV and combination with 8 TeV search*, CMS Collaboration, [Phys. Lett. B 767, 147-170 (2017)](https://doi.org/10.1016/j.physletb.2017.01.027); [arXiv:1609.02507](https://arxiv.org/abs/1609.02507).
