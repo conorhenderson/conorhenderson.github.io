@@ -80,6 +80,7 @@ Internal University funding:
 ## Teaching
 
 At the University of Cincinnati, 2021-present:
+   * Intermediate Physics lecture
    * Introductory Physics Major labs
    * Intermediate Physics Major labs
    * Introduction to Particle Physics (graduate)
