@@ -208,7 +208,12 @@ In addition, I am a co-author on:
    * Director of Graduate Studies, University of Alabama Department of Physics & Astronomy,
 2017-19
 
-     
+## High Energy Physics Community Activities and Service
+
+   * Invited reviewer for: Department of Energy (DOE) ‘Intensity Frontier’ and ‘Energy Frontier’ review panels; DOE Early Career Award proposals; National Science Foundation Experimental Particle Physics proposals; NSF CAREER Award proposals
+   * Invited reviewer for journals Physical Review D and Physics Letters B: Nuclear and Particle Physics
+   * Session organizer and chair, ‘Direct Dark Matter Search Experiments’, 2019 Annual meeting of the Southeastern Section of the American Physical Society (SESAPS 2019), 7-9 November 2019
+
 ## Outreach Activities
 
    * Primary mentor and organiser for Univ of Cincinnati [QuarkNet](https://quarknet.org/) workshop for high-school physics teacher training in high-energy physics research (2023-present)
